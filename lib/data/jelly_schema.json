@@ -1,0 +1,9648 @@
+{
+  "tags": [
+    {
+      "name": "g:action_filter",
+      "attributes": [
+        {
+          "name": "action",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "conditional",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "current",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:activity",
+      "attributes": [
+        {
+          "name": "fields",
+          "values": []
+        },
+        {
+          "name": "records",
+          "values": []
+        },
+        {
+          "name": "sys_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:app_resources",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:attachment_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "sys_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:breakpoint",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dump",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "message",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:calendar",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "day",
+          "values": []
+        },
+        {
+          "name": "month",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "variables",
+          "values": []
+        },
+        {
+          "name": "view",
+          "values": []
+        },
+        {
+          "name": "year",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:calendar_event_id",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "event",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:call",
+      "attributes": [
+        {
+          "name": "arguments",
+          "values": []
+        },
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "function",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:child_tables",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceType",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "root",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "skipRoot",
+          "values": []
+        },
+        {
+          "name": "skipTables",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:choice_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "column",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "maxRefDropdown",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "reference",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:client_script",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "catalogItem",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "suppressSubmitEvent",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "uIType",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "viewName",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:columnoptions",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "fields",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:comment",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:copy_to_p2",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:currency_format",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "double",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:dashboard",
+      "attributes": [
+        {
+          "name": "board",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:decorations",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:deferred_script",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "enable",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:deferred_style",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "enable",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:doctype",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "publicId",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "systemId",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:element",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "hide_label",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:element_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "section_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:emitParms",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "suppress",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:evaluate",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "copyToPhase2",
+          "values": []
+        },
+        {
+          "name": "copyToRhino",
+          "values": []
+        },
+        {
+          "name": "expression",
+          "values": []
+        },
+        {
+          "name": "expressionScope",
+          "values": []
+        },
+        {
+          "name": "jelly",
+          "values": []
+        },
+        {
+          "name": "locals",
+          "values": []
+        },
+        {
+          "name": "object",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:file_browse",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "directory",
+          "values": []
+        },
+        {
+          "name": "exts",
+          "values": []
+        },
+        {
+          "name": "ignore",
+          "values": []
+        },
+        {
+          "name": "noext",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:fileinfo",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "filename",
+          "values": []
+        },
+        {
+          "name": "linenumber",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:filter_groups",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:for_each_record",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "file_variable",
+          "values": []
+        },
+        {
+          "name": "max",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:form",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "mode",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:form_label",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "class",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "for",
+          "values": []
+        },
+        {
+          "name": "onclick",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:function",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:gauge",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "filters",
+          "values": []
+        },
+        {
+          "name": "height",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "width",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_action_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dependent",
+          "values": []
+        },
+        {
+          "name": "ensure",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "referenceoverride",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_canned_messages",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_collection_data",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "key",
+          "values": []
+        },
+        {
+          "name": "listEntries",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "related_field",
+          "values": []
+        },
+        {
+          "name": "related_table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_connectors",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "connField",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "listField",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_distribution_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dependent",
+          "values": []
+        },
+        {
+          "name": "ensure",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "referenceoverride",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_filters",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "tablename",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_groupby_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "related",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "form",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:get_roles",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:hdrftr_cell_data",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:hdrftr_layout",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:help",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:highlighter",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "limit",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "search",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:history",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:html_page",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:image_structure",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:import_vars",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "vars",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:index_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:inline",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:insert",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:insert_form",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_connector",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_hierarchical",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_key",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_label",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_parent",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_related_field",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_related_file",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_relationship",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_type",
+          "values": []
+        },
+        {
+          "name": "sysparm_collectionID",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:internal_type_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "includeContainerTypes",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:item_link",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "show_link",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:list_control",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:list_item_style",
+      "attributes": [
+        {
+          "name": "alt_var",
+          "values": []
+        },
+        {
+          "name": "background_var",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "cell_var",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "item",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "style",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:list_item_text",
+      "attributes": [
+        {
+          "name": "alt_length",
+          "values": []
+        },
+        {
+          "name": "alt_text_var",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "item",
+          "values": []
+        },
+        {
+          "name": "item_parent",
+          "values": []
+        },
+        {
+          "name": "list_chars",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "target_text_var",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:menu_lists",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "device_type",
+          "values": []
+        },
+        {
+          "name": "omit_perspectives",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:messages",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "emit",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "scriptTag",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:my_groups",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:no_escape",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:noop",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:partial_page",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "optimize",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "style",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:preference",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "default",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:ref_element",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "query",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:reference_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:reminder_field_name_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "onlyDates",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:remote_import",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "url",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:render_component",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "componentName",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:reportmessage",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:requires",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "includes",
+          "values": []
+        },
+        {
+          "name": "inline",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "params",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "position",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:response_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:scope",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "scope",
+          "values": []
+        },
+        {
+          "name": "scriptname",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:scripted_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "function",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:scripted_table_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "fieldScope",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "showTableNamesOnLabel",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:search_table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:section",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "content",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "title",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:section_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "firstSectionOnly",
+          "values": []
+        },
+        {
+          "name": "headerOnly",
+          "values": []
+        },
+        {
+          "name": "headerSimple",
+          "values": []
+        },
+        {
+          "name": "headerSpacer",
+          "values": []
+        },
+        {
+          "name": "modelId",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "varRef",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:session_notifications",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:set_if",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "false",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "true",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:setjs",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "expression",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:sysevent_name_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:system_properties",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "exclude",
+          "values": []
+        },
+        {
+          "name": "include",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:system_properties_categorized",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "category",
+          "values": []
+        },
+        {
+          "name": "colspan",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:textarea",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:tokenize",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "delim",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:update_table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:vsplit",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:vsplitter",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:with",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "noQuery",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:wizard",
+      "attributes": [
+        {
+          "name": "action",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "intercepts",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "question",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "refurl",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g:wizard_choice_list",
+      "attributes": [
+        {
+          "name": "answer",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:action_filter",
+      "attributes": [
+        {
+          "name": "action",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "conditional",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "current",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:activity",
+      "attributes": [
+        {
+          "name": "fields",
+          "values": []
+        },
+        {
+          "name": "records",
+          "values": []
+        },
+        {
+          "name": "sys_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:app_resources",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:attachment_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "sys_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:breakpoint",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dump",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "message",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:calendar",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "day",
+          "values": []
+        },
+        {
+          "name": "month",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "variables",
+          "values": []
+        },
+        {
+          "name": "view",
+          "values": []
+        },
+        {
+          "name": "year",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:calendar_event_id",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "event",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:call",
+      "attributes": [
+        {
+          "name": "arguments",
+          "values": []
+        },
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "function",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:child_tables",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceType",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "root",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "skipRoot",
+          "values": []
+        },
+        {
+          "name": "skipTables",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:choice_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "column",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "maxRefDropdown",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "reference",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:client_script",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "catalogItem",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "suppressSubmitEvent",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "uIType",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "viewName",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:columnoptions",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "fields",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:comment",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:copy_to_p2",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:currency_format",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "double",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:dashboard",
+      "attributes": [
+        {
+          "name": "board",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:decorations",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:deferred_script",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "enable",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:deferred_style",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "enable",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:doctype",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "publicId",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "systemId",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:element",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "hide_label",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:element_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "section_id",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:emitParms",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "suppress",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:evaluate",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "copyToPhase2",
+          "values": []
+        },
+        {
+          "name": "copyToRhino",
+          "values": []
+        },
+        {
+          "name": "expression",
+          "values": []
+        },
+        {
+          "name": "expressionScope",
+          "values": []
+        },
+        {
+          "name": "jelly",
+          "values": []
+        },
+        {
+          "name": "locals",
+          "values": []
+        },
+        {
+          "name": "object",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:file_browse",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "directory",
+          "values": []
+        },
+        {
+          "name": "exts",
+          "values": []
+        },
+        {
+          "name": "ignore",
+          "values": []
+        },
+        {
+          "name": "noext",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:fileinfo",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "filename",
+          "values": []
+        },
+        {
+          "name": "linenumber",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:filter_groups",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:for_each_record",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "file_variable",
+          "values": []
+        },
+        {
+          "name": "max",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:form",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "mode",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:form_label",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "class",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "for",
+          "values": []
+        },
+        {
+          "name": "onclick",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:function",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:gauge",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "filters",
+          "values": []
+        },
+        {
+          "name": "height",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "width",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_action_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dependent",
+          "values": []
+        },
+        {
+          "name": "ensure",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "referenceoverride",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_canned_messages",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_collection_data",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "id",
+          "values": []
+        },
+        {
+          "name": "key",
+          "values": []
+        },
+        {
+          "name": "listEntries",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "related_field",
+          "values": []
+        },
+        {
+          "name": "related_table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_connectors",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "connField",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "listField",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_distribution_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "dependent",
+          "values": []
+        },
+        {
+          "name": "ensure",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "referenceoverride",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_filters",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "tablename",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_groupby_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "related",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "form",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:get_roles",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "record",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:hdrftr_cell_data",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:hdrftr_layout",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:help",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:highlighter",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "limit",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "search",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:history",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:html_page",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:image_structure",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:import_vars",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "vars",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:index_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:inline",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "jVAR",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:insert",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:insert_form",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_connector",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_hierarchical",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_key",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_label",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_parent",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_related_field",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_related_file",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_relationship",
+          "values": []
+        },
+        {
+          "name": "sysparm_collection_type",
+          "values": []
+        },
+        {
+          "name": "sysparm_collectionID",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:internal_type_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "includeContainerTypes",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:item_link",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "show_link",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:list_control",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:list_item_style",
+      "attributes": [
+        {
+          "name": "alt_var",
+          "values": []
+        },
+        {
+          "name": "background_var",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "cell_var",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "item",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "style",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:list_item_text",
+      "attributes": [
+        {
+          "name": "alt_length",
+          "values": []
+        },
+        {
+          "name": "alt_text_var",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "item",
+          "values": []
+        },
+        {
+          "name": "item_parent",
+          "values": []
+        },
+        {
+          "name": "list_chars",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "target_text_var",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:menu_lists",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "device_type",
+          "values": []
+        },
+        {
+          "name": "omit_perspectives",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:messages",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "emit",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "scriptTag",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:my_groups",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:no_escape",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:noop",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:partial_page",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "optimize",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "style",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:preference",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "default",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:ref_element",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "query",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:reference_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:reminder_field_name_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "onlyDates",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "tableName",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:remote_import",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "url",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:render_component",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "componentName",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:reportmessage",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:requires",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "includes",
+          "values": []
+        },
+        {
+          "name": "inline",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "output",
+          "values": []
+        },
+        {
+          "name": "params",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "position",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:response_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "table",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:scope",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "scope",
+          "values": []
+        },
+        {
+          "name": "scriptname",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:scripted_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "function",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:scripted_table_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "fieldScope",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "script",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "showTableNamesOnLabel",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:search_table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:section",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "content",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "title",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:section_list",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "firstSectionOnly",
+          "values": []
+        },
+        {
+          "name": "headerOnly",
+          "values": []
+        },
+        {
+          "name": "headerSimple",
+          "values": []
+        },
+        {
+          "name": "headerSpacer",
+          "values": []
+        },
+        {
+          "name": "modelId",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        },
+        {
+          "name": "varRef",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:session_notifications",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:set_if",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "false",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "true",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:setjs",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "expression",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:sysevent_name_options",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:system_properties",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "exclude",
+          "values": []
+        },
+        {
+          "name": "include",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:system_properties_categorized",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "category",
+          "values": []
+        },
+        {
+          "name": "colspan",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "template",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:textarea",
+      "attributes": [
+        {
+          "name": "attribute",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:tokenize",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "delim",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:update_table_options",
+      "attributes": [
+        {
+          "name": "all",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "canRead",
+          "values": []
+        },
+        {
+          "name": "choiceList",
+          "values": []
+        },
+        {
+          "name": "choiceValue",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "currentTableName",
+          "values": []
+        },
+        {
+          "name": "fieldName",
+          "values": []
+        },
+        {
+          "name": "includeDefault",
+          "values": []
+        },
+        {
+          "name": "isReference",
+          "values": []
+        },
+        {
+          "name": "isReport",
+          "values": []
+        },
+        {
+          "name": "none",
+          "values": []
+        },
+        {
+          "name": "noSystemTables",
+          "values": []
+        },
+        {
+          "name": "noViews",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "readonly",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "selected",
+          "values": []
+        },
+        {
+          "name": "selectedField",
+          "values": []
+        },
+        {
+          "name": "selectedOnly",
+          "values": []
+        },
+        {
+          "name": "shortList",
+          "values": []
+        },
+        {
+          "name": "showTableNames",
+          "values": []
+        },
+        {
+          "name": "skipScopeRestrictions",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:vsplit",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:vsplitter",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:with",
+      "attributes": [
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "noQuery",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:wizard",
+      "attributes": [
+        {
+          "name": "action",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "intercepts",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "question",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "refurl",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "g2:wizard_choice_list",
+      "attributes": [
+        {
+          "name": "answer",
+          "values": []
+        },
+        {
+          "name": "body",
+          "values": []
+        },
+        {
+          "name": "context",
+          "values": []
+        },
+        {
+          "name": "parent",
+          "values": []
+        },
+        {
+          "name": "ref",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "variable",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:arg",
+      "attributes": [
+        {
+          "name": "classLoader",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "useContextClassLoader",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:break",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:case",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "fallThru",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:catch",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:choose",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:default",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "fallThru",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:expr",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:file",
+      "attributes": [
+        {
+          "name": "append",
+          "values": []
+        },
+        {
+          "name": "encoding",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "omitXmlDeclaration",
+          "values": []
+        },
+        {
+          "name": "outputMode",
+          "values": []
+        },
+        {
+          "name": "prettyPrint",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:forEach",
+      "attributes": [
+        {
+          "name": "begin",
+          "values": []
+        },
+        {
+          "name": "end",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "indexVar",
+          "values": []
+        },
+        {
+          "name": "items",
+          "values": []
+        },
+        {
+          "name": "step",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "varStatus",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:getStatic",
+      "attributes": [
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:if",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:import",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "inherit",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "uri",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:include",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "export",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "inherit",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "uri",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:invoke",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "exceptionVar",
+          "values": []
+        },
+        {
+          "name": "method",
+          "values": []
+        },
+        {
+          "name": "on",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:invokeStatic",
+      "attributes": [
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "exceptionVar",
+          "values": []
+        },
+        {
+          "name": "method",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:jelly",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "xmlns",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:mute",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:new",
+      "attributes": [
+        {
+          "name": "classLoader",
+          "values": []
+        },
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "useContextClassLoader",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:otherwise",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:parse",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "jellyParser",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "XMLReader",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:remove",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:scope",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:set",
+      "attributes": [
+        {
+          "name": "defaultValue",
+          "values": []
+        },
+        {
+          "name": "encode",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "property",
+          "values": []
+        },
+        {
+          "name": "scope",
+          "values": []
+        },
+        {
+          "name": "target",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:setProperties",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:switch",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "on",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:thread",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "xmlOutput",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:useBean",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "ignoreUnknownProperties",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:useList",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "ignoreUnknownProperties",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:when",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:while",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j:whitespace",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:arg",
+      "attributes": [
+        {
+          "name": "classLoader",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "type",
+          "values": []
+        },
+        {
+          "name": "useContextClassLoader",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:break",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:case",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "fallThru",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:catch",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:choose",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:default",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "fallThru",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:expr",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:file",
+      "attributes": [
+        {
+          "name": "append",
+          "values": []
+        },
+        {
+          "name": "encoding",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "omitXmlDeclaration",
+          "values": []
+        },
+        {
+          "name": "outputMode",
+          "values": []
+        },
+        {
+          "name": "prettyPrint",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:forEach",
+      "attributes": [
+        {
+          "name": "begin",
+          "values": []
+        },
+        {
+          "name": "end",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "indexVar",
+          "values": []
+        },
+        {
+          "name": "items",
+          "values": []
+        },
+        {
+          "name": "step",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "varStatus",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:getStatic",
+      "attributes": [
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "field",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:if",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:import",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "inherit",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "uri",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:include",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "export",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "inherit",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "uri",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:invoke",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "exceptionVar",
+          "values": []
+        },
+        {
+          "name": "method",
+          "values": []
+        },
+        {
+          "name": "on",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:invokeStatic",
+      "attributes": [
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "exceptionVar",
+          "values": []
+        },
+        {
+          "name": "method",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:jelly",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "xmlns",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:mute",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:new",
+      "attributes": [
+        {
+          "name": "classLoader",
+          "values": []
+        },
+        {
+          "name": "className",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "useContextClassLoader",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:otherwise",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:parse",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "jellyParser",
+          "values": []
+        },
+        {
+          "name": "text",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        },
+        {
+          "name": "XMLReader",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:remove",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:scope",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:set",
+      "attributes": [
+        {
+          "name": "defaultValue",
+          "values": []
+        },
+        {
+          "name": "encode",
+          "values": []
+        },
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "property",
+          "values": []
+        },
+        {
+          "name": "scope",
+          "values": []
+        },
+        {
+          "name": "target",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "value",
+          "values": []
+        },
+        {
+          "name": "var",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:setProperties",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:switch",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "on",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:thread",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "file",
+          "values": []
+        },
+        {
+          "name": "name",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        },
+        {
+          "name": "xmlOutput",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:useBean",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "ignoreUnknownProperties",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:useList",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "ignoreUnknownProperties",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:when",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:while",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "test",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    },
+    {
+      "name": "j2:whitespace",
+      "attributes": [
+        {
+          "name": "escapeText",
+          "values": []
+        },
+        {
+          "name": "trim",
+          "values": []
+        }
+      ]
+    }
+  ]
+}
