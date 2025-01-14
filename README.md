@@ -1,6 +1,4 @@
-![Code Snippets Banner](https://github.com/ServiceNowDevProgram/code-snippets/assets/31702109/f9fa072a-4c0c-426b-8eed-200c6616ff60)
-
-Welcome to ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
+# ServiceNow Snippets
 
 Inside this repository, you will find community submitted code-snippets and their variants for different use-cases.
 
@@ -23,20 +21,21 @@ By using the code from this repository, you acknowledge that you have read and u
 We appreciate your participation and contributions to this community-driven project. Let's collaborate to make it a valuable resource for ServiceNow developers and enthusiasts.
 
 🔔🔔🔔<br>
-**_CONTRIBUTORS must follow all guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)_** or run the risk of having your Pull Requests labeled as spam.<br>
+**CONTRIBUTORS must follow all guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)** or run the risk of having your Pull Requests labeled as spam.<br>
 🔔🔔🔔
 
 ## We invite you to contribute!
 
 To contribute, just follow these steps:
 
-1. Fork this repo (you get a point just by forking!)
+1. Fork this repository (you will earn a point for forking)
 2. Create a new branch on your fork
 3. Add/Update the repo
 4. Submit a pull request!
 
-That's it! More detailed contribution instructions can be found [here](CONTRIBUTING.md)
+That's it! 
 
-## Leaderboard
+More detailed contribution instructions can be found [here](CONTRIBUTING.md)
 
-Looking for the old leaderboard? We've moved the leaderboard to the overarching [Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest#leaders) repository and have expanded its scope to all participating projects.
+## Folder Structure
+The #Snippets folder contains subfolders categorized by the type of ServiceNow customizations and configurations. These include [#Business Rules] Business Rules (Server Side), UI Macros, Client Scripts, Background Scripts, Script Actions, Mail Scripts, and more. Each type folder will contain a README.md file and additional folders with files and markdowns for various reusable snippets.
